@@ -1,2 +1,3 @@
 -- Import every target from Agora/targets
 import Targets.foo
+import Targets.bar
