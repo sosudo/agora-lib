@@ -1,2 +1,1 @@
--- Import every target from Agora/targets
-import Targets.target
+-- Import every contribution from Targets
